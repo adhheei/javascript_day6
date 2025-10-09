@@ -1,4 +1,4 @@
-# 🗓️ JavaScript – Day 6
+# 🗓️ JavaScript -– Day 6
 Topic: DOM Basics
 📚 What I Learned
 
